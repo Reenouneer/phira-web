@@ -71,6 +71,30 @@ const i18n = createI18n({
       'title-dmca': 'DMCA',
       'title-terms-of-use': '使用条款',
       'title-privacy-policy': '隐私政策',
+    }, 
+    'ru-RU': {
+      login: 'Войти',
+      register: 'Регистрация',
+
+      warning: 'Предупреждение',
+      cancel: 'Отмена',
+      confirm: 'Подтвердить',
+      save: 'Сохранить',
+      search: 'Поиск',
+      submit: 'Отправить',
+
+      'bio-empty': 'Здесь пусто *треск сверчков*',
+
+      'please-login': 'Пожалуйста, войдите',
+
+      'title-default': 'Phira',
+      'title-charts': 'Чарты',
+      'title-users': 'Пользователь',
+      'title-settings': 'Настройки',
+
+      'title-dmca': 'DMCA',
+      'title-terms-of-use': 'Условия Использования',
+      'title-privacy-policy': 'Политика Конфиденциальности',
     },
   },
   legacy: false,
