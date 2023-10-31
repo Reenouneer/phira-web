@@ -54,6 +54,32 @@ zh-CN:
   num-follower: 粉丝
   num-following: 关注的人
 
+  ru-RU:
+  play-count: Всего попыток
+  avg-accuracy: Средняя точность
+  rks: RKS
+
+  recent-records: Недавние
+  best-pool: Лучшие 20
+  recent-pool: Недавние 10
+
+  report:
+    button: Пожаловаться
+    hint: Причина жалобы. от 10 до 200 символов.
+    done: Жалоба отправлена. Благодарим вас за вклад в благосостояние комьюнити Phira!
+
+  ban:
+    button: Заблокировать
+    confirm: 'Вы уверены что хотите заблокировать пользователя?'
+    done: Пользователь заблокирован
+
+  upload:
+    title: Выложенные чарты
+    more: Больше
+    no-charts: Пользователь не выкладывал чартов.
+
+  num-follower: Подписчики
+  num-following: Подписан на 
 </i18n>
 
 <script setup lang="ts">
