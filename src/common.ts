@@ -15,6 +15,7 @@ export const LANGUAGES = {
   'zh-CN': '简体中文',
   'zh-TW': '繁體中文',
   'en-US': 'English',
+  'ru-RU': 'Русский'
 };
 
 export function userPermissions(user: User) {
