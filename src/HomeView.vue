@@ -9,6 +9,11 @@ zh-CN:
   link:
     github: GitHub
 
+en:
+  description: Комьюнити Phigros Fanmade
+  link:
+    github: GitHub
+  
 </i18n>
 
 <script setup lang="ts">
