@@ -18,6 +18,15 @@ zh-CN:
     prompt: 没有账户？
     action: 注册账号
 
+ru-RU:
+  logging-in: Вход... 
+  logged-in: Успешный вход
+
+  forget-password: 'Забыли пароль?'
+  new-user:
+    prompt: 'Впервые в Phira?'
+    action: Регистрация
+
 </i18n>
 
 <script setup lang="ts">
