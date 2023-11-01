@@ -7,6 +7,10 @@ en:
 zh-CN:
   registering: 正在注册中
   registered: 注册成功
+  
+ru-RU:
+  registering: Регистрация... 
+  registered: Успешная регистрация
 
 </i18n>
 
