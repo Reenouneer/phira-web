@@ -9,6 +9,11 @@ zh-CN:
   security: 安全
   email: 邮件
 
+  ru-RU:
+  account: Аккаунт
+  security: Безопасность
+  email: Электронная почта
+  
 </i18n>
 
 <script setup lang="ts">
