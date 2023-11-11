@@ -81,6 +81,37 @@ zh-CN:
     lower: 评分下界
     upper: 评分上界
 
+ru-RU:
+  division:
+    label: Категория
+    regular: Обычные
+    troll: Шуточные
+    plain: Простые
+    visual: Визуальные
+  order:
+    label: Сортировка по
+    time: Времени
+    time-rev: Времени(старые) 
+    rating: Оценке
+    rating-rev: Оценке(обр.) 
+    name: Имени(A-Z) 
+    name-rev: Имени(Z-A) 
+
+  filter-opts: Настройки фильтра
+  filters:
+    from-me:
+      any: Мои
+      yes: Только мои
+    unreviewed:
+      any: Все
+      no: Только Модерированные
+      yes: Только не модерированные
+    stb:
+      any: Подтверждëнные
+      stb: Только подтверждëнные
+      ranked: Только рейтинговые
+      unranked: Только нерейтинговые
+      req: Ожидающие подтверждения
 </i18n>
 
 <script setup lang="ts">
